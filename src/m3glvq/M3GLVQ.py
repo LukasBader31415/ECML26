@@ -18,6 +18,7 @@ This module implements the M3GLVQ algorithm as described in:
 
 The implementation is based on and extends the original MGLVQ code by
 Benjamin Paaßen (proto-dist-ml, GNU GPLv3).
+https://gitlab.ub.uni-bielefeld.de/bpaassen/proto-dist-ml/-/blob/master/proto_dist_ml/mglvq.py
 """
 
 import numpy as np
