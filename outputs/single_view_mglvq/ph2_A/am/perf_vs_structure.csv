@@ -1,0 +1,20 @@
+section,group,mean_knn_purity,mean_mu,mean_knn_mean,mean_d_plus,mean_d_minus,error_rate
+mean_by_correct,correct=0,0.41627659574468084,0.0066422189908618276,0.3604126767592227,0.38974512349417867,0.3844015968289781,
+mean_by_correct,correct=1,0.6173271889400921,-0.009404618713941904,0.3511826031768377,0.3731202008262757,0.3792434708863359,
+error_by_quantile_knn_purity,"(-0.001, 0.2]",,,,,,0.7482517482517482
+error_by_quantile_knn_purity,"(0.2, 0.5]",,,,,,0.5917721518987342
+error_by_quantile_knn_purity,"(0.5, 0.6]",,,,,,0.2887029288702929
+error_by_quantile_knn_purity,"(0.6, 0.8]",,,,,,0.250386398763524
+error_by_quantile_knn_purity,"(0.8, 1.0]",,,,,,0.17948717948717952
+error_by_quantile_mu,"(-1.001, 0.0]",,,,,,0.42260869565217396
+error_by_quantile_mu,"(0.0, 1.0]",,,,,,0.7033333333333334
+error_by_quantile_knn_mean,"(-0.001, 0.25]",,,,,,0.43031784841075793
+error_by_quantile_knn_mean,"(0.25, 0.427]",,,,,,0.465483234714004
+error_by_quantile_knn_mean,"(0.427, 0.431]",,,,,,0.4726688102893891
+error_by_quantile_knn_mean,"(0.431, 0.449]",,,,,,0.4837092731829574
+error_by_quantile_knn_mean,"(0.449, 1.0]",,,,,,0.47117794486215536
+error_by_quantile_difficulty,"(-0.001, 0.245]",,,,,,0.23220973782771537
+error_by_quantile_difficulty,"(0.245, 0.4]",,,,,,0.2748091603053435
+error_by_quantile_difficulty,"(0.4, 0.5]",,,,,,0.4612794612794613
+error_by_quantile_difficulty,"(0.5, 0.8]",,,,,,0.6972972972972973
+error_by_quantile_difficulty,"(0.8, 1.4]",,,,,,0.9016393442622951

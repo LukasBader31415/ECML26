@@ -1,0 +1,74 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----------------------------
+# Jupyter
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Virtual environments
+# ----------------------------
+.venv/
+venv/
+env/
+
+# ----------------------------
+# OS / editor files
+# ----------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ----------------------------
+# Logs / temp
+# ----------------------------
+*.log
+*.tmp
+*.temp
+
+# ----------------------------
+# Private mappings / sensitive helper files
+# ----------------------------
+private_mappings/
+*.mapping.json
+*customer_mapping*.json
+*reverse_mapping*.json
+
+# ----------------------------
+# Archives
+# ----------------------------
+*.zip
+*.tar
+*.gz
+
+# ----------------------------
+# Local result artifacts
+# ----------------------------
+#*outputs/
+
+# If you want to keep selected public outputs later, remove the line above
+# and ignore only large intermediate outputs selectively.
+
+
+
+# ----------------------------
+# Large binary artifacts
+# ----------------------------
+#*.pkl
+#*.pickle
+
+# ----------------------------
+# Data
+# ----------------------------
+# Keep this commented if anonymized public raw data should stay in the repo:
+# data/raw/
+
+# Ignore processed/intermediate data by default
+data/interim/
+data/processed/

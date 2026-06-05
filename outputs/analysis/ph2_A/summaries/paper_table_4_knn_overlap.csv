@@ -1,0 +1,4 @@
+,Industry (NAICS),Products (HS),Applications (AP)
+Industry (NAICS),1.0,0.081566,0.008527
+Products (HS),0.081566,1.0,0.008331
+Applications (AP),0.008527,0.008331,1.0

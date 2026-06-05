@@ -1,0 +1,7 @@
+profile_name,n_samples,gain_vs_any_single,loss_vs_any_single,net_vs_any_single,best_single_view_ref,gain_vs_best_single_view,loss_vs_best_single_view,net_vs_best_single_view,gain_vs_am,loss_vs_am,net_vs_am,gain_vs_hs,loss_vs_hs,net_vs_hs,gain_vs_naics,loss_vs_naics,net_vs_naics
+C4_primary,2025,66,605,-539,hs,296,282,14,432,374,58,296,282,14,352,332,20
+C3_secondary,2025,32,584,-552,hs,201,200,1,368,323,45,201,200,1,360,353,7
+C3_primary,2025,55,617,-562,hs,237,246,-9,378,343,35,237,246,-9,396,399,-3
+C0_primary,2025,39,607,-568,hs,256,271,-15,418,389,29,256,271,-15,304,313,-9
+C0_secondary,2025,69,644,-575,hs,293,315,-22,424,402,22,293,315,-22,343,359,-16
+C4_secondary,2025,68,648,-580,hs,302,329,-27,446,429,17,302,329,-27,302,323,-21

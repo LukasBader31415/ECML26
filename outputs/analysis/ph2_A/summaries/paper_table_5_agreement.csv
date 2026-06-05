@@ -1,0 +1,4 @@
+Pair (A-B),Agree Similar,Agree Dissimilar,A-only Similar,B-only Similar
+Products (HS)–Applications (AP),0.014039,0.813558,0.086017,0.086385
+Industry (NAICS)–Applications (AP),0.015936,0.800338,0.099238,0.084488
+Industry (NAICS)–Products (HS),0.018437,0.803206,0.096737,0.08162

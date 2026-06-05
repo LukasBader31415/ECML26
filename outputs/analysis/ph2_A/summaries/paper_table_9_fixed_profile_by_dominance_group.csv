@@ -1,0 +1,8 @@
+Single-view prediction-dominance group,Nr. of Customers,Cluster 0,Cluster 3,Cluster 4
+Industry (NAICS),216,90 (-126),51 (-165),96 (-120)
+Products (HS),134,84 (-50),85 (-49),79 (-55)
+Applications (AP),167,34 (-133),53 (-114),46 (-121)
+Mixed,675,445 (-230),468 (-207),440 (-235)
+All correct,530,462 (-68),448 (-82),456 (-74)
+All wrong,303,39 (+39),55 (+55),66 (+66)
+Total,2025,1154,1160,1183

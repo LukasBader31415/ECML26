@@ -1,0 +1,4 @@
+view_a,view_b,both_correct,either_correct,only_a_correct,only_b_correct,jaccard_correct_sets
+am,naics,700,1588,425,463,0.44080604534005036
+hs,naics,777,1555,392,386,0.4996784565916399
+am,hs,788,1506,337,381,0.5232403718459495
